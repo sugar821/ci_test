@@ -17,5 +17,4 @@ jobs:
           name: The Second Step. run minitest
           command: |
             ls -al
-	    ruby test_main.rb
-
+            ruby test_main.rb
